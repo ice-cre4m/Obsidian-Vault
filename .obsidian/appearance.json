@@ -1,5 +1,5 @@
 {
-  "accentColor": "#fffafe",
-  "interfaceFontFamily": "Calibri,Lucida Console,Fira Code,Gadugi,Corbel,Nirmala UI,Yu Gothic UI,Segoe UI",
+  "accentColor": "#ffffff",
+  "interfaceFontFamily": "Segoe UI,Lucida Console,Calibri,Fira Code,Gadugi,Corbel,Nirmala UI,Yu Gothic UI",
   "cssTheme": "Cupertino"
 }
