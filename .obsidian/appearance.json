@@ -1,5 +1,6 @@
 {
   "accentColor": "#ffffff",
   "interfaceFontFamily": "Segoe UI,Lucida Console,Calibri,Fira Code,Gadugi,Corbel,Nirmala UI,Yu Gothic UI",
-  "cssTheme": "Cupertino"
+  "cssTheme": "Cupertino",
+  "showRibbon": true
 }
