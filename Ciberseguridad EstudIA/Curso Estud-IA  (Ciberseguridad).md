@@ -60,3 +60,7 @@ Elegir una arquitectura o otra depende completamente de la organización y de cr
 OSCP es muy importante por ejemplo para un perfil de red team aunque es bastante compleja de conseguir. Se debe apuntar a hacking etico y a pentesting. 
 
 ![[Pasted image 20261112203916.png]]
+
+
+# Primera hackaton 
+Documentacion: ![[DocumentacionHackaton.pdf]]
